@@ -106,3 +106,4 @@ buy/sell tokens on market place or auction or perform any other generic operatio
 Fractional ownership is controlled by allocation of the ownership fungible token
 managed by the DAO. The DAO itself is a FA2 contracts that supports standard FA2
 API to manage the ownership token.
+new here! not sure if i did all that right!
